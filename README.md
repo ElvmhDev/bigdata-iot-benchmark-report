@@ -305,5 +305,5 @@ print("🚀 ¡Servidor FastAPI (ASGI Asíncrono) corriendo en http://localhost:8
 ## 8. APÉNDICES: EVIDENCIAS TÉCNICAS DEL PROCESAMIENTO
 
 * **Figura 1.** Interfaz de monitoreo en Spark UI (`Benchmark-Kappa-Streaming`) de la ejecución secuencial de los microprocesamientos (*Structured Streaming*) para la Arquitectura Kappa.
-* **Figura 2.** Interfaz de monitoreo en Spark UI (`Benchmark-Lambda-Batch`) de la ejecución de los trabajos por lotes (*Batch Processing*) para la Arquitectura Lambda.
-* **Figura 3.** Salida en consola de JupyterLab que demuestra la recepción e ingesta dinámica por lotes (*Batch 0*, *Batch 1*) de la telemetría de sensores IoT mediante la Arquitectura Kappa.
+* **Figura 2.** Ejecución en consola de JupyterLab de la recepción e ingesta dinámica por lotes (Batch 0, Batch 1) de la telemetría de sensores IoT mediante la Arquitectura Kappa.
+* **Figura 3.** Interfaz de monitoreo en Spark UI (`Benchmark-Lambda-Batch`) de la ejecución de los trabajos por lotes (Batch Processing) para la Arquitectura Lambda
